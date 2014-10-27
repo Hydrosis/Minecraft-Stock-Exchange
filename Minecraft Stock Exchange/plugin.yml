@@ -1,4 +1,4 @@
-name: Stocks
+name: MinecraftStockExchange
 main: hyg.hydrosis.mse.MSE
 version: 1.0
 depend: [Vault]

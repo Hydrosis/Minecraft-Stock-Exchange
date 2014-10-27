@@ -95,7 +95,7 @@ public class MSE extends JavaPlugin implements CommandExecutor{
 		{
 			if(args.length==0)
 			{
-				sender.sendMessage(ChatColor.DARK_GREEN+"              --==$$$$ Hydrocity Stock Exchange $$$$==--");
+				sender.sendMessage(ChatColor.DARK_GREEN+"              --==$$$$ Minecraft Stock Exchange $$$$==--");
 				sender.sendMessage(ChatColor.DARK_AQUA + "Created by Hydrosis");
 				sender.sendMessage(ChatColor.GOLD+"How to use: "+ChatColor.YELLOW+
 						"To find stock symbols, search for them at\n" +ChatColor.UNDERLINE + ChatColor.ITALIC+ "finance.yahoo.com");
